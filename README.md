@@ -1,3 +1,8 @@
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/pruebaescolar)](https://repl.it/github/MagoInterior/pruebaescolar) 
+
+
 # Baileys - Typescript/Javascript WhatsApp Web API
  
  Baileys does not require Selenium or any other browser to be interface with WhatsApp Web, it does so directly using a **WebSocket**. Not running Selenium or Chromimum saves you like **half a gig** of ram :/ 
